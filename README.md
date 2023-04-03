@@ -3,6 +3,8 @@ Running Kafka jobs using Docker
 
 ![img](./wallpaper.jpg)
 
+#### HDFS
+
 HDFS, or Hadoop Distributed File System, is a distributed file system designed to store and
 process large datasets using commodity hardware. It is part of the Apache Hadoop ecosystem
 and is widely used in big data processing. HDFS uses a master-slave architecture with one
@@ -17,6 +19,8 @@ processing large datasets. Overall, HDFS plays a crucial role in the world of bi
 data and is an essential tool for data engineers and analysts.
 
 ![hadoop.png](hadoop.png)
+
+#### Kafka
 
 Kafka is an open-source distributed event streaming platform designed for handling real-time
 data feeds. Originally developed by LinkedIn and now part of the Apache Software Foundation,
